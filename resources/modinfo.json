@@ -3,6 +3,7 @@
     "side": "client",
     "modid": "butcheringfix",
     "name": "Butchering Fix",
+    "description": "You can now butcher creatures in vegetation without any problems.",
     "authors": ["Craluminum2413"],
     "version": "1.0.0"
 }
